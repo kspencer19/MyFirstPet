@@ -14,3 +14,6 @@ Steps to run the web application:
 8. Now its time to import the web application files into your MAMP "htdocs" file directory. This will be located where you installed MAMP to. 
 9. Copy the downloaded "htdocs" folder and past it in the MAMP directory. It will ask to replace the already created folder, select "Yes or continue".
 10. Now head back to the webstart page and click on "My Website". You now have access to the web application and can use it however you choose to.
+
+
+[Loom Video of Project Presentation](https://www.loom.com/share/27512a53e89a48bb88d4536bade9b314?t=0)
